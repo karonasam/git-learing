@@ -1,0 +1,21 @@
+# --- System Files ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- OneDrive / Office Temp Files ---
+~$*
+.~lock.*
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# --- Common Language Folders (Uncomment what you need) ---
+# node_modules/   # For JavaScript/Node.js
+# __pycache__/    # For Python
+# bin/            # For Java/C#
+# obj/            # For C#
+
